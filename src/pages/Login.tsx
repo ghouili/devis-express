@@ -44,7 +44,7 @@ const Login = () => {
             <div className="w-10 h-10 rounded-lg gradient-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold">DP</span>
             </div>
-            <span className="text-xl font-semibold text-foreground">DevisPeinture</span>
+            <span className="text-xl font-semibold text-foreground">Traqeo</span>
           </Link>
           <h1 className="text-2xl font-bold text-foreground">Connexion</h1>
           <p className="text-muted-foreground mt-2">

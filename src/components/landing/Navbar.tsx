@@ -22,7 +22,7 @@ const Navbar = () => {
             <div className="w-8 h-8 rounded-lg gradient-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">DP</span>
             </div>
-            <span className="font-semibold text-foreground">DevisPeinture</span>
+            <span className="font-semibold text-foreground">Traqeo</span>
           </Link>
 
           {/* Desktop Navigation */}

@@ -72,7 +72,7 @@ const HeroSection = () => {
                   <div className="w-3 h-3 rounded-full bg-emerald-400/60" />
                 </div>
                 <div className="flex-1 text-center text-xs text-muted-foreground">
-                  app.devispeinture.fr/dashboard
+                  app.Traqeo.fr/dashboard
                 </div>
               </div>
 

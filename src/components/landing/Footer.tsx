@@ -29,7 +29,7 @@ const Footer = () => {
               <div className="w-8 h-8 rounded-lg gradient-primary flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-sm">DP</span>
               </div>
-              <span className="font-semibold text-foreground">DevisPeinture</span>
+              <span className="font-semibold text-foreground">Traqeo</span>
             </Link>
             <p className="text-sm text-muted-foreground">
               La plateforme de suivi des demandes de devis pour les métiers de la peinture.
@@ -90,7 +90,7 @@ const Footer = () => {
 
         <div className="mt-12 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © 2026 DevisPeinture. Tous droits réservés.
+            © 2026 InnoviaBurst. Tous droits réservés.
           </p>
           <p className="text-sm text-muted-foreground">
             Fait avec ❤️ pour les équipes terrain

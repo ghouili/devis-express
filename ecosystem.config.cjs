@@ -1,10 +1,10 @@
 module.exports = {
   apps: [{
-    name: 'taqeo',
+    name: 'traqeo',
     script: 'serve',
     // args: `-s ${process.env.BUILD_DIR || 'dist'} -l ${process.env.APP_PORT || 8000}`,
-    args: `dist 8003 --spa --name taqeo`,
-    cwd: '/var/www/taqeo',
+    args: `dist 8003 --spa --name traqeo`,
+    cwd: '/var/www/traqeo',
     instances: 1,
     autorestart: true,
     watch: false,
@@ -13,8 +13,8 @@ module.exports = {
       NODE_ENV: 'production',
       PORT: 8003
     },
-    out_file: `/var/www/taqeo/pm2-out.log`,
-    error_file: `/var/www/taqeo/pm2-error.log`,
+    out_file: `/var/www/traqeo/pm2-out.log`,
+    error_file: `/var/www/traqeo/pm2-error.log`,
     merge_logs: true
   }]
 }
